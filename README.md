@@ -41,5 +41,5 @@ The CEO has specified a target lead conversion rate of approximately 80%.
 
 •       Leads Data Dictionary.xlsx: Data Dictionary
 
-•       Lead_Scoring_Presentation.pdf: Summary of what's done in the entire py file
+•       Lead Score Summary.pdf: Summary of what's done in the entire py file
 
